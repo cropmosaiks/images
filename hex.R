@@ -1,6 +1,6 @@
 library(hexSticker)
 
-img <- "https://github.com/cropmosaiks/NDVI_Images/blob/main/ndvi.png?raw=true"
+img <- "https://github.com/cropmosaiks/NDVI_Images/blob/main/images/ndvi.png?raw=true"
 
 sticker(
   img,
@@ -15,6 +15,6 @@ sticker(
   s_height = .6,
   h_fill="#f9690e",     # color to fill hexagon
   h_color="#460b68",    # color for hexagon border
-  filename="imgfile.png"
+  filename="cropMOSAIKS_hex.png"
 )
 
